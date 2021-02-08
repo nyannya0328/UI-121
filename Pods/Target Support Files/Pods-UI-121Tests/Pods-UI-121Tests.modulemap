@@ -1,0 +1,6 @@
+framework module Pods_UI_121Tests {
+  umbrella header "Pods-UI-121Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
